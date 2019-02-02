@@ -1,4 +1,4 @@
-# 100-days-of-python
+# 100 days of python
 
 ## Day 1
 Using the datetime module. 
