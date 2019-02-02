@@ -26,3 +26,6 @@ Using datetime and sleep to make a command line timer
 Named tuples, default dict, counter, and deques. Deques are pretty good for random insertion/deletion because you can get away with moving fewer items from their previous position. Default dict is great for building up nested objects. Named tuples are like classless classes.  
 
 ## Day 5
+Getting movie data, parsing it with csv.DictReader. Uses defaultdict, namedtuple ad Counter to manipulate data. 
+
+
