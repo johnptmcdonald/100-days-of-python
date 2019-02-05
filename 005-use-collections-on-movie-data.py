@@ -34,10 +34,11 @@ def get_movies_by_director(data=movies_csv):
 
 directors = get_movies_by_director()
 
+# counter is just a dict for counting
 cnt = Counter()
 
 for director, movies in directors.items():
 	cnt[director] += len(movies)
 
-print(cnt)
+print(cnt.most_common(10))
 
