@@ -28,4 +28,19 @@ Named tuples, default dict, counter, and deques. Deques are pretty good for rand
 ## Day 5
 Getting movie data, parsing it with csv.DictReader. Uses defaultdict, namedtuple ad Counter to manipulate data. 
 
+## Day 6
+Using namedtuple and counter to parse movie data from themoviedb.com
+
+## Day 7
+No py file, just list, tuple, dict basics
+
+## Day 8
+Parsing a nested DS in fun ways.
+`sum(list_of_lists, [])` <-- this is a cool trick to flatten a list of lists
+
+
+
+
+
+
 
