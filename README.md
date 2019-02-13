@@ -38,7 +38,9 @@ No py file, just list, tuple, dict basics
 Parsing a nested DS in fun ways.
 `sum(list_of_lists, [])` <-- this is a cool trick to flatten a list of lists
 
-
+## Day 9
+Nothing special, just list/dict basic katas
+`max(data, key=len)` <-- cool trick to find the 'most' anything in a list
 
 
 
